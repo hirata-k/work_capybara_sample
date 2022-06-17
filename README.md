@@ -34,3 +34,7 @@ Capybaraで、googleの検索エンジンで、「シャノン」と検索して
 Googleの検索結果ページで「シャノン」のホームページが表示されることをテストしてください。
 
 期待値の判定方法は、一番上の検索結果のタイトルに "シャノン" が含まれているかどうかで判定してください。
+
+### Refernce
+https://github.com/teamcapybara/capybara#the-dsl  
+https://rubydoc.info/github/teamcapybara/capybara/master  
